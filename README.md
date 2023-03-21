@@ -2,8 +2,8 @@
 ### Data Scientist
 
 - 🔭 I'm currently working on **Google IT Automation with Python Professional Certificate**
-- 📫 Reach me at **dollybelcher@hotmail.com**
-- 📄 Know about my experiences on [linkedin](linkedin.com/in/dollybelcher)
+<!-- - 📫 Reach me at **dollybelcher@hotmail.com** -->
+- 📄 Know about my experiences on [linkedin](https://www.linkedin.com/in/suraj-hirani-b74068a4/)
 
 
 <h3 align="left">Connect with me:</h3>
